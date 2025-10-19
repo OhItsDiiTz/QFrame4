@@ -1,3 +1,3 @@
 # QFrame4
 
-Project for testing frame4 in qt using its restful api
+This is a port from [libframe4-js](https://github.com/DeathRGH/libframe4-js) for qt creator and is for communicating with the restful api within [Frame4](https://github.com/DeathRGH/frame4)
